@@ -1,0 +1,2 @@
+# shopee-follow
+這個JavaScript可以幫助賣家自動關注目標買家以增加免費的自然流量
